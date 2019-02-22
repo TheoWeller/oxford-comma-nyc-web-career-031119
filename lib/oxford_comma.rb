@@ -6,6 +6,6 @@ elsif array.size == 2
 else
   new_array = []
   array.pop.push(new_array)
-  array.join(", " + array.join(" and "))
+  array.join(", " + new_array.join(" and "))
 end
 end
