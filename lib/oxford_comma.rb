@@ -8,3 +8,4 @@ else
     array[-1].insert(0, "and ")
   end
 end
+end
